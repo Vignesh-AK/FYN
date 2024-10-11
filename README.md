@@ -84,7 +84,7 @@ Ensure you have the following installed on your system:
 
 - **Backend (Django):** REST API to manage workshop operations like bookings, inventory, repair orders, and customer details.
 - **Frontend (React):** User-friendly interface for workshop staff to manage daily tasks and track vehicles.
-- **Booking Management:** Enables customers to book services and track their vehicle's status.
+- **Booking Management:** List vehicles and their issues.
 - **Inventory Management:** Keeps track of parts and other materials used in the workshop.
 
 ## Project Structure
