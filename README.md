@@ -93,15 +93,17 @@ Ensure you have the following installed on your system:
 FYN/
 │
 ├── backend/
-│   ├── env/                  # Python virtual environment
-│   ├── manage.py             # Django management script
-│   ├── requirements.txt      # Python dependencies
-│   └── ...
+│   ├── DMS/ 
+│      ├── env/                  # Python virtual environment
+│      ├── manage.py             # Django management script
+│      ├── requirements.txt      # Python dependencies
+│      └── ...
 │
 └── frontend/
-    ├── src/
-    ├── public/
-    └── package.json          # npm dependencies
+│   ├── vehicle-service-system/
+│      ├── src/
+│      ├── public/
+│      └── package.json          # npm dependencies
 ```
 
 ## Available Scripts
